@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6752b305d5fac2179c9e1976"
+  },
+  "firstName": "Adam",
+  "lastName": " Nowak",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6752b30ed5fac2179c9e1978"
+  },
+  "firstName": "Jan ",
+  "lastName": "Kowal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6752b3b9d5fac2179c9e197a"
+  },
+  "firstName": "marian",
+  "lastName": "kowal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6752b3bed5fac2179c9e197c"
+  },
+  "firstName": "marian",
+  "lastName": "kowal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676124629e797cbeaea39cf6"
+  },
+  "firstName": "xxxx",
+  "lastName": "jjjj",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676124769e797cbeaea39cfa"
+  },
+  "firstName": "xxxx333",
+  "lastName": "jjjj333",
+  "__v": 0
+}]
